@@ -1,6 +1,6 @@
 # javascript-example
 
-more exercises nov agai
+more exercises nov again
 
 fork and clone this repository, open the index.html in a browser  
 you should after a short loading time see `hello globalworming`  
